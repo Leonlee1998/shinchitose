@@ -1,0 +1,8 @@
+{
+  "name": "Shinchitose Project Management",
+  "description": "A sophisticated project management system designed for the Shinchitose project, featuring task tracking, meeting logs, and social media content management integrated with Google Sheets structure.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
